@@ -6,7 +6,7 @@ public class blast : MonoBehaviour {
     // Use this for initialization
     void Start()
     {
-        this.rigidbody.AddForce(-1200, 0, 0);
+        this.GetComponent<Rigidbody>().AddForce(-1200, 0, 0);
     }
 
     // Update is called once per frame

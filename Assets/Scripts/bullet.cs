@@ -11,7 +11,7 @@ public class bullet : MonoBehaviour {
     {
         ForceDef = GameObject.Find("Force Defender");
         ForceData = ForceDef.GetComponent<FD_Ctrl>();
-        this.rigidbody.AddForce(500, 0, 0);
+        this.GetComponent<Rigidbody>().AddForce(500, 0, 0);
 	}
 	
 	// Update is called once per frame
