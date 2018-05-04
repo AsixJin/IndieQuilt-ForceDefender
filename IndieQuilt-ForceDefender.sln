@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndieQuilt-ForceDefender", "IndieQuilt-ForceDefender.csproj", "{5D467B51-7EE2-3442-F50D-C90844DBA8ED}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndieQuilt-ForceDefender", "Assembly-CSharp.csproj", "{F7C26C10-0002-260E-BB55-08CAF96FA973}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5D467B51-7EE2-3442-F50D-C90844DBA8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D467B51-7EE2-3442-F50D-C90844DBA8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D467B51-7EE2-3442-F50D-C90844DBA8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D467B51-7EE2-3442-F50D-C90844DBA8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C26C10-0002-260E-BB55-08CAF96FA973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C26C10-0002-260E-BB55-08CAF96FA973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C26C10-0002-260E-BB55-08CAF96FA973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C26C10-0002-260E-BB55-08CAF96FA973}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.1/system/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_IndieQuilt-ForceDefender.-440280390.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Anti_Ctrl.cs" t="Include" />
+          <e p="Baddie_Base.cs" t="Include" />
+          <e p="ButtonLock.cs" t="Include" />
+          <e p="FD_Ctrl.cs" t="Include" />
+          <e p="GameMang.cs" t="Include" />
+          <e p="IndieQuiltCommunicator.cs" t="Include" />
+          <e p="UI.cs" t="Include" />
+          <e p="blast.cs" t="Include" />
+          <e p="bullet.cs" t="Include" />
+        </e>
+      </e>
+      <e p="IndieQuilt-ForceDefender.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
